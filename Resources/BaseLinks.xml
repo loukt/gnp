@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<feedlinks>
+  <feedlink>
+    <name>Sport</name>
+    <link>http://www.aufaitmaroc.com/feeds/sport.xml</link>
+  </feedlink>
+  <feedlink>
+    <name>Maroc</name>
+    <link>http://www.aufaitmaroc.com/feeds/maroc.xml</link>
+  </feedlink>
+  <feedlink>
+    <name>Science et environnement</name>
+    <link>http://www.aufaitmaroc.com/feeds/science--environnement.xml</link>
+  </feedlink>
+  <feedlink>
+    <name>Bourse</name>
+    <link>http://www.aufaitmaroc.com/feeds/bourse.xml</link>
+  </feedlink>
+  <feedlink>
+    <name>Economie</name>
+    <link>http://www.aufaitmaroc.com/feeds/economie.xml</link>
+  </feedlink>
+</feedlinks>
